@@ -1,2 +1,2 @@
 # d2rolls
-Personal project that I made to fix my D2 hoarding issue, I doubt I'd be commiting much on the project lol 
+Simple move items & vault pull request, alongside with (hopefully) making a vault cleaner/roll rating system so it's easy to determine what guns and armor to get rid of
